@@ -4,7 +4,15 @@ This repository contains list of my playground repositories
 
 ## What are playgrounds?
 
-They are my "hacking experiments", something that I quickly build in order to play with some technology. They are my therapeutic coding hobbies, where I can "forget normal projects constraints" without worring that someone has to maintain them.
+They are my "hacking experiments", something that I quickly built in order to play with some technology. They are my therapeutic coding hobbies, where I can "forget normal project constraints" without worring that someone has to maintain them.
+
+## Code quality
+
+I won't be refactoring this stuff, code quality is POC level
+
+## Will they work?
+
+Maybe. At least they worked at some point in time
 
 ## Why?
 
