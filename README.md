@@ -24,4 +24,4 @@ So that I can better understand some technology
 | ------------- | ------------- |
 | Bitcoin price command line graph | https://github.com/samuliheljo/playground-bitcoin-price |
 | Ethereum private blockchain in Docker | https://github.com/samuliheljo/playground-ethereum-in-docker |
-
+| Ethereum Vue.js client | https://github.com/samuliheljo/playground-ethereum-vue-client |
